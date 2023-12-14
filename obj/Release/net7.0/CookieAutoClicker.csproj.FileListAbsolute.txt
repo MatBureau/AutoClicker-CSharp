@@ -1,0 +1,17 @@
+C:\Users\mathi\Documents\GitHub\CookieAutoClicker\AutoClicker-CSharp\bin\Release\net7.0\CookieAutoClicker.exe
+C:\Users\mathi\Documents\GitHub\CookieAutoClicker\AutoClicker-CSharp\bin\Release\net7.0\CookieAutoClicker.deps.json
+C:\Users\mathi\Documents\GitHub\CookieAutoClicker\AutoClicker-CSharp\bin\Release\net7.0\CookieAutoClicker.runtimeconfig.json
+C:\Users\mathi\Documents\GitHub\CookieAutoClicker\AutoClicker-CSharp\bin\Release\net7.0\CookieAutoClicker.dll
+C:\Users\mathi\Documents\GitHub\CookieAutoClicker\AutoClicker-CSharp\bin\Release\net7.0\CookieAutoClicker.pdb
+C:\Users\mathi\Documents\GitHub\CookieAutoClicker\AutoClicker-CSharp\bin\Release\net7.0\WindowsInput.dll
+C:\Users\mathi\Documents\GitHub\CookieAutoClicker\AutoClicker-CSharp\obj\Release\net7.0\CookieAutoClicker.csproj.AssemblyReference.cache
+C:\Users\mathi\Documents\GitHub\CookieAutoClicker\AutoClicker-CSharp\obj\Release\net7.0\CookieAutoClicker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathi\Documents\GitHub\CookieAutoClicker\AutoClicker-CSharp\obj\Release\net7.0\CookieAutoClicker.AssemblyInfoInputs.cache
+C:\Users\mathi\Documents\GitHub\CookieAutoClicker\AutoClicker-CSharp\obj\Release\net7.0\CookieAutoClicker.AssemblyInfo.cs
+C:\Users\mathi\Documents\GitHub\CookieAutoClicker\AutoClicker-CSharp\obj\Release\net7.0\CookieAutoClicker.csproj.CoreCompileInputs.cache
+C:\Users\mathi\Documents\GitHub\CookieAutoClicker\AutoClicker-CSharp\obj\Release\net7.0\CookieAutoClicker.csproj.CopyComplete
+C:\Users\mathi\Documents\GitHub\CookieAutoClicker\AutoClicker-CSharp\obj\Release\net7.0\CookieAutoClicker.dll
+C:\Users\mathi\Documents\GitHub\CookieAutoClicker\AutoClicker-CSharp\obj\Release\net7.0\refint\CookieAutoClicker.dll
+C:\Users\mathi\Documents\GitHub\CookieAutoClicker\AutoClicker-CSharp\obj\Release\net7.0\CookieAutoClicker.pdb
+C:\Users\mathi\Documents\GitHub\CookieAutoClicker\AutoClicker-CSharp\obj\Release\net7.0\CookieAutoClicker.genruntimeconfig.cache
+C:\Users\mathi\Documents\GitHub\CookieAutoClicker\AutoClicker-CSharp\obj\Release\net7.0\ref\CookieAutoClicker.dll

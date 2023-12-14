@@ -1,0 +1,5 @@
+﻿1
+360
+True
+
+La première valeur est le temps en milliseconde entre les clics, la seconde est la durée d'exécution

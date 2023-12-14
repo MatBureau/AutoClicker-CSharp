@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "eDxIuPgIRB0nAeYUl3pprqSNNyq6zNWKS2fLjhXzH/0Cg+FITgOc74juNUeN8EpLE5rM4gN2tUCHC545cQvw7A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mathi\\Documents\\GitHub\\CookieAutoClicker\\AutoClicker-CSharp\\CookieAutoClicker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mathi\\.nuget\\packages\\inputsimulator\\1.0.4\\inputsimulator.1.0.4.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Le package 'InputSimulator 1.0.4' a été restauré en utilisant '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' au lieu du framework cible du projet 'net7.0'. Ce package n'est peut-être pas totalement compatible avec votre projet.",
+      "libraryId": "InputSimulator",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    }
+  ]
+}
